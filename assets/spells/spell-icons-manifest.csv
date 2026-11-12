@@ -1,0 +1,43 @@
+Spell,File,WoW icon ID,Asset Type,Source URL
+Fireball,fireball.png,spell_fire_flamebolt,Forever spell,https://wow.zamimg.com/images/wow/icons/large/spell_fire_flamebolt.jpg
+Scorch,scorch.png,spell_fire_soulburn,Forever spell,https://wow.zamimg.com/images/wow/icons/large/spell_fire_soulburn.jpg
+Pyroblast,pyroblast.png,spell_fire_fireball02,Forever spell,https://wow.zamimg.com/images/wow/icons/large/spell_fire_fireball02.jpg
+Arcane Blast,arcane_blast.png,spell_arcane_blast,Forever spell,https://wow.zamimg.com/images/wow/icons/large/spell_arcane_blast.jpg
+Arcane Missiles,arcane_missiles.png,spell_nature_starfall,Forever spell,https://wow.zamimg.com/images/wow/icons/large/spell_nature_starfall.jpg
+Arcane Wrath,arcane_wrath.png,ability_mage_netherwindpresence,Forever spell,https://wow.zamimg.com/images/wow/icons/large/ability_mage_netherwindpresence.jpg
+Fire Blast,fire_blast.png,spell_fire_fireball,Forever spell,https://wow.zamimg.com/images/wow/icons/large/spell_fire_fireball.jpg
+Frostbolt,frostbolt.png,spell_frost_frostbolt02,Forever spell,https://wow.zamimg.com/images/wow/icons/large/spell_frost_frostbolt02.jpg
+Ice Lance,ice_lance.png,spell_frost_frostblast,Forever spell,https://wow.zamimg.com/images/wow/icons/large/spell_frost_frostblast.jpg
+Frostfire Bolt,frostfire_bolt.png,ability_mage_frostfirebolt,Forever spell,https://wow.zamimg.com/images/wow/icons/large/ability_mage_frostfirebolt.jpg
+Wand (Shoot),wand_shoot.png,ability_shootwand,Native spell,https://wow.zamimg.com/images/wow/icons/large/ability_shootwand.jpg
+Cone of Cold,cone_of_cold.png,spell_frost_glacier,Forever spell,https://wow.zamimg.com/images/wow/icons/large/spell_frost_glacier.jpg
+Blast Wave,blast_wave.png,spell_holy_excorcism_02,Forever spell,https://wow.zamimg.com/images/wow/icons/large/spell_holy_excorcism_02.jpg
+Arcane Explosion,arcane_explosion.png,spell_nature_wispsplode,Forever spell,https://wow.zamimg.com/images/wow/icons/large/spell_nature_wispsplode.jpg
+Flamestrike,flamestrike.png,spell_fire_selfdestruct,Forever spell,https://wow.zamimg.com/images/wow/icons/large/spell_fire_selfdestruct.jpg
+Blizzard,blizzard.png,spell_frost_icestorm,Forever spell,https://wow.zamimg.com/images/wow/icons/large/spell_frost_icestorm.jpg
+Frost Nova,frost_nova.png,spell_frost_frostnova,Forever spell,https://wow.zamimg.com/images/wow/icons/large/spell_frost_frostnova.jpg
+Polymorph,polymorph.png,spell_nature_polymorph,Forever spell,https://wow.zamimg.com/images/wow/icons/large/spell_nature_polymorph.jpg
+Counterspell,counterspell.png,spell_frost_iceshock,Forever spell,https://wow.zamimg.com/images/wow/icons/large/spell_frost_iceshock.jpg
+Jump,jump.png,ability_rogue_sprint,Representative: no unique Jump icon,https://wow.zamimg.com/images/wow/icons/large/ability_rogue_sprint.jpg
+Mana Shield,mana_shield.png,spell_shadow_detectlesserinvisibility,Forever spell,https://wow.zamimg.com/images/wow/icons/large/spell_shadow_detectlesserinvisibility.jpg
+Fire Ward,fire_ward.png,spell_fire_firearmor,Forever spell,https://wow.zamimg.com/images/wow/icons/large/spell_fire_firearmor.jpg
+Frost Ward,frost_ward.png,spell_frost_frostward,Forever spell,https://wow.zamimg.com/images/wow/icons/large/spell_frost_frostward.jpg
+Blink,blink.png,spell_arcane_blink,Forever spell,https://wow.zamimg.com/images/wow/icons/large/spell_arcane_blink.jpg
+Open Map,open_map.png,inv_misc_map_01,Representative: UI action,https://wow.zamimg.com/images/wow/icons/large/inv_misc_map_01.jpg
+Will of the Forsaken,will_of_the_forsaken.png,spell_shadow_raisedead,Native racial,https://wow.zamimg.com/images/wow/icons/large/spell_shadow_raisedead.jpg
+Remove Lesser Curse,remove_lesser_curse.png,spell_nature_removecurse,Forever spell,https://wow.zamimg.com/images/wow/icons/large/spell_nature_removecurse.jpg
+Slow Fall,slow_fall.png,spell_magic_featherfall,Forever spell,https://wow.zamimg.com/images/wow/icons/large/spell_magic_featherfall.jpg
+Ice Block,ice_block.png,spell_frost_frost,Forever spell,https://wow.zamimg.com/images/wow/icons/large/spell_frost_frost.jpg
+Ice Barrier,ice_barrier.png,spell_ice_lament,Forever spell,https://wow.zamimg.com/images/wow/icons/large/spell_ice_lament.jpg
+Cold Snap,cold_snap.png,spell_frost_wizardmark,Forever spell,https://wow.zamimg.com/images/wow/icons/large/spell_frost_wizardmark.jpg
+Presence of Mind,presence_of_mind.png,spell_nature_enchantarmor,Forever spell,https://wow.zamimg.com/images/wow/icons/large/spell_nature_enchantarmor.jpg
+Arcane Power,arcane_power.png,spell_nature_lightning,Forever spell,https://wow.zamimg.com/images/wow/icons/large/spell_nature_lightning.jpg
+Combustion,combustion.png,spell_fire_sealoffire,Forever spell,https://wow.zamimg.com/images/wow/icons/large/spell_fire_sealoffire.jpg
+GO,go.png,spell_nature_bloodlust,Representative: custom burst macro,https://wow.zamimg.com/images/wow/icons/large/spell_nature_bloodlust.jpg
+CC Trinket #1,cc_trinket_1.png,inv_jewelry_trinketpvp_01,Representative: actual trinket unknown,https://wow.zamimg.com/images/wow/icons/large/inv_jewelry_trinketpvp_01.jpg
+CC Trinket #2,cc_trinket_2.png,inv_jewelry_trinketpvp_01,Representative: actual trinket unknown,https://wow.zamimg.com/images/wow/icons/large/inv_jewelry_trinketpvp_01.jpg
+Evocation,evocation.png,spell_nature_purge,Forever spell,https://wow.zamimg.com/images/wow/icons/large/spell_nature_purge.jpg
+Cannibalize,cannibalize.png,ability_racial_cannibalize,Native racial,https://wow.zamimg.com/images/wow/icons/large/ability_racial_cannibalize.jpg
+Mana Potion,mana_potion.png,inv_potion_76,Representative: Major Mana Potion,https://wow.zamimg.com/images/wow/icons/large/inv_potion_76.jpg
+Mana Gem (Use),mana_gem_use.png,inv_misc_gem_ruby_01,Representative: Mana Ruby,https://wow.zamimg.com/images/wow/icons/large/inv_misc_gem_ruby_01.jpg
+Healing Potion,healing_potion.png,inv_potion_54,Representative: Major Healing Potion,https://wow.zamimg.com/images/wow/icons/large/inv_potion_54.jpg
