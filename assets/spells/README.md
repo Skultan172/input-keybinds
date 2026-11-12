@@ -1,1 +1,1 @@
-
+WoW Forever spell icons
