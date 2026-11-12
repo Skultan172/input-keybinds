@@ -1,0 +1,29 @@
+Index,Spell,Bind,Image_1,Image_2
+ST-01,Fireball,9,K09.png,
+ST-07,Fire Blast,0,K10.png,
+ST-02,Scorch,S-9,MB4.png,K09.png
+ST-08,Frostbolt,F5,K15.png,
+ST-03,Pyroblast,C-9,MB5.png,K09.png
+ST-09,Ice Lance,S-F5,MB4.png,K15.png
+ST-04,Arcane Blast,F4,K14.png,
+ST-10,Frostfire Bolt,C-F5,MB5.png,K15.png
+ST-05,Arcane Missiles,S-F4,MB4.png,K14.png
+ST-11,Wand (Shoot),Alt+W,ROUND.png,
+ST-06,Arcane Wrath,C-F4,MB5.png,K14.png
+AOE-01,Cone of Cold,3,K03.png,
+AOE-04,Flamestrike,F8,K18.png,
+AOE-02,Blast Wave,S-3,MB4.png,K03.png
+AOE-05,Blizzard,S-F8,MB4.png,K18.png
+AOE-03,Arcane Explosion,C-F3,MB5.png,K13.png
+CC-01,Frost Nova,S-F3,MB4.png,K13.png
+CC-02,Polymorph,F9,K19.png,
+CC-03,Counterspell,S-F9,MB4.png,K19.png
+U-01,Jump,F3,K03.png,
+U-02,Mana Shield,4,K04.png,
+U-03,Fire Ward,5,K05.png,
+U-04,Frost Ward,S-5,MB4.png,K05.png
+U-05,Blink,8,K08.png,
+U-06,Open Map,F6,K16.png,
+U-07,Will of the Forsaken,F12,K20.png,
+U-08,Remove Lesser Curse,Shift+Wheel Down,MB4.png,WHEEL_DOWN.png
+U-09,Slow Fall,Shift+Wheel Up,MB4.png,WHEEL_UP.png

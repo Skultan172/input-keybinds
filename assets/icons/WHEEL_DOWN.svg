@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="430" viewBox="-65.202 -46.393 401.821 510.409">
+  <defs>
+    <clipPath id="c">
+      <path d="M0 0h430v430H0z"/>
+    </clipPath>
+    <clipPath id="d">
+      <path d="M0 0h430v430H0z"/>
+    </clipPath>
+    <clipPath id="b">
+      <path d="M -572.73 -138.56 L 1000.2 -138.56 L 1000.2 1434.35 L -572.73 1434.35 L -572.73 -138.56 Z"/>
+    </clipPath>
+    <clipPath id="clip-1">
+      <path d="M -612.83 -1091.5 L 1036.06 -1091.5 L 1036.06 557.393 L -612.83 557.393 L -612.83 -1091.5 Z" style="stroke-width: 1;"/>
+    </clipPath>
+  </defs>
+  <path stroke="#121331" d="M215 348.119s0 0 0 0c-46.054 0-82.648-38.696-80.079-84.678l6.665-119.283c1.173-20.994 12.027-39.255 28.082-50.547a66.03 66.03 0 0 1 38.1-12.039h14.465c35.171 0 64.219 27.47 66.181 62.586l6.665 119.283c2.569 45.982-34.025 84.678-80.079 84.678zm0-229.106V81.568m75.532 100.498c-30.083 28.384-120.981 28.384-151.064 0M215 203.35v-27.302" class="primary" stroke-linecap="round" stroke-linejoin="round" stroke-width="12.04" clip-path="url(#b)" fill="none" style="display: block;"/>
+  <path stroke="#08A88A" d="M214.874 175.613h.252c6.865 0 12.43-5.565 12.43-12.43v-31.244c0-6.865-5.565-12.43-12.43-12.43h-.252c-6.865 0-12.43 5.565-12.43 12.43v31.244c0 6.865 5.565 12.43 12.43 12.43z" class="secondary" stroke-linecap="round" stroke-linejoin="round" stroke-width="12.04" clip-path="url(#b)" fill="none" style="display: block;"/>
+  <path class="secondary" style="display:none" clip-path="url(#c)" fill="none"/>
+  <path class="secondary" style="display:none" clip-path="url(#c)" fill="none"/>
+  <path class="primary" clip-path="url(#d)" fill="none" style="display: none;"/>
+  <path class="primary" clip-path="url(#d)" fill="none" style="display: none;"/>
+  <path class="secondary" clip-path="url(#d)" fill="none" style="display: none;"/>
+  <path stroke="#08A88A" d="M 113.38 351.048 L 211.612 449.276 L 309.843 351.048" class="secondary" style="display: block; stroke-width: 12.04;" stroke-linecap="round" stroke-linejoin="round" stroke-width="12.04" clip-path="url(#clip-1)" fill="none"/>
+</svg>
